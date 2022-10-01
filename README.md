@@ -16,3 +16,4 @@ thorium-browser |   |
 tidal-hifi-git |   |
 topgrade |   |
 xscreensaver-backends |   |
+tty-clock |  |
